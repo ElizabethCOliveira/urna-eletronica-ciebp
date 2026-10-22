@@ -60,6 +60,3 @@ A participação fica separada dos totais por chapa. O banco grava o RA e increm
 
 Feche o aplicativo e faça uma cópia de segurança antes de substituir arquivos. Preserve as pastas `dados_oficiais` e `dados_teste`. Nunca apague a base oficial para reiniciar testes.
 
-## Desenvolvimento
-
-Projeto elaborado a partir dos requisitos de Elizabeth, com apoio de inteligência artificial na implementação e revisão. A versão atual é um aplicativo Python, não um executável `.exe` independente.
