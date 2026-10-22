@@ -1,0 +1,17 @@
+# Dados locais e todas as variantes arquivadas
+dados_*/
+*.sqlite*
+*.db
+*.db-*
+*.lock
+*.bak
+*.backup
+*.csv
+*.xlsx
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backups/
